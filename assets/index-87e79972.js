@@ -190,7 +190,7 @@ function print() { __p += __j.call(arguments, '') }
 `,JA=Vr.div`
   border: 4px solid #000;
   max-width: 500px;
-  // display: none;
+  display: none;
 `,Xv=Vr.div`
   display: flex;
   border-bottom: 1px solid #aaa;
